@@ -6,6 +6,7 @@ compared to ETOPO1, SRTM30, and ASTER?  Well so did I and
 there was nothing to be found on the internet.  So with a
 little help from GMT (http://gmt.soest.hawaii.edu/), I was
 able to fulfill my need and decided to make this effort
-widely available.  All credit really has to go to the folks
-at NGDC@NOAA and the GMT community. Enjoy!
+widely available.  All credit goes to the folks at NGDC@NOAA
+for producing an amazing topography model and the GMT
+community for a great software product. Enjoy!
 
